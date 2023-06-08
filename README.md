@@ -71,4 +71,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-![Weatherapp](https://github.com/VidhiiPrajapati/Weather-app/assets/128973236/f6a46d36-1a7a-4a2c-b3e1-be25896ff5a7)
